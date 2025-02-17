@@ -1,0 +1,15 @@
+{
+    "id": "whmcsoauthprovider",
+    "name": "whmcsOauthProvider",
+    "author": "RMartinOscar",
+    "version": "1.0.0",
+    "description": "Add Whmcs from SocialiteProviders",
+    "url": "https://github.com/RMartinOscar/whmcsoauthprovider",
+    "namespace": "RMartinOscar\\WhmcsOauthProvider",
+    "class": "WhmcsOauthProviderPlugin",
+    "status": "enabled",
+    "status_message": null,
+    "panels": null,
+    "panel_version": null,
+    "category": "plugin"
+}
